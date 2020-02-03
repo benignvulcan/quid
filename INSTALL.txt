@@ -1,0 +1,12 @@
+Installation Notes
+==================
+
+Requires Python 3 (at least 3.1, runs fine under 3.4)
+  Under GNU/Linux Debian/Ubuntu/etc. flavors:
+    sudo apt install python3
+
+To play a game:
+  In a terminal:
+    cd quid   # (or wherever you put this program)
+    ./quid play
+
